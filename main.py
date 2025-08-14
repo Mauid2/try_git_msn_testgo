@@ -8,4 +8,4 @@ if __name__=='main.py':
     sum_1=sum_num(a,b)
     multi_1=multi(a,b)
     print(sum_1,multi_1)
-    print("hello world")
+    print("hello world!msn")
