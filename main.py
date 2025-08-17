@@ -1,3 +1,1 @@
-import pytest
-
-pytest.main()
+print("msn")
